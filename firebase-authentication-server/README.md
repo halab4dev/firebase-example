@@ -1,0 +1,1 @@
+- [Install Admin SDK](https://firebase.google.com/docs/admin/setup)
